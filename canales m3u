@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 ,ESTRENOS
+https://petopu151.caraponi.me/live/plusestrenos/index.m3u8?token=djcjBWdfSpbjtznwgH9-Gw&expires=1597130497
+
+#EXTINF:-1 ,ACCION
+https://bola6.mitopo.me/live/plusaccion/index.m3u8?token=IOHGtFbrUk6vA1I97sSKyA&expires=1597130563
+
+#EXTINF:-1 ,VAMOS
+https://petopu152.caraponi.me/live/vamos/index.m3u8?token=an6CYt_Ux5A-7d7DGguXlw&expires=1597130615
+
+#EXTINF:-1 ,MTV
+https://bola7.mitopo.me/live/mtv/index.m3u8?token=mucKhinoWgfRot7vZfD6YQ&expires=1597130688
+
+#EXTINF:-1 ,LA LIGA
+https://telerium.tv/ingest011/46718.m3u8?sf=enNJelFyZDA3OQ==&token=PmHOVlewaEYPEvxL-2NE6Q&expires=1597045538&rnd=46718
+
+#EXTINF:-1 ,DEPORTES
+https://petopu152.caraponi.me/live/plusdeportes/index.m3u8?token=vcKOoJl9VGAS26iJhj1xNQ&expires=1597130799
