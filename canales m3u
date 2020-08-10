@@ -1,19 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1 ,ESTRENOS
-https://petopu151.caraponi.me/live/plusestrenos/index.m3u8?token=djcjBWdfSpbjtznwgH9-Gw&expires=1597130497
+https://ul.cdn946.net:8443/hls/o48bvtquehj.m3u8?s=8A7BCyU2r5_PQpdemntjPA&e=1597069714
 
 #EXTINF:-1 ,ACCION
-https://bola6.mitopo.me/live/plusaccion/index.m3u8?token=IOHGtFbrUk6vA1I97sSKyA&expires=1597130563
+https://ul.cdn946.net:8443/hls/edjh2zoe2bn.m3u8?s=HF7BjTO5_mujXW-wXpBeBg&e=1597069784
 
 #EXTINF:-1 ,VAMOS
-https://petopu152.caraponi.me/live/vamos/index.m3u8?token=an6CYt_Ux5A-7d7DGguXlw&expires=1597130615
+https://ul.cdn946.net:8443/hls/ok2ih45bnv.m3u8?s=cBqUD8_-M8S9XCH3Ry3O2A&e=1597070002
 
 #EXTINF:-1 ,MTV
-https://bola7.mitopo.me/live/mtv/index.m3u8?token=mucKhinoWgfRot7vZfD6YQ&expires=1597130688
+https://ul.cdn946.net:8443/hls/fag0qnhg8.m3u8?s=UexiqlPhHA6FGDbvMxt-Rg&e=1597070218
 
 #EXTINF:-1 ,LA LIGA
-https://telerium.tv/ingest011/46718.m3u8?sf=enNJelFyZDA3OQ==&token=PmHOVlewaEYPEvxL-2NE6Q&expires=1597045538&rnd=46718
+https://ul.cdn946.net:8443/hls/qhvk62.m3u8?s=Qdc4cWC82jbI2je_6korWw&e=1597070070
 
 #EXTINF:-1 ,DEPORTES
-https://petopu152.caraponi.me/live/plusdeportes/index.m3u8?token=vcKOoJl9VGAS26iJhj1xNQ&expires=1597130799
+https://ul.cdn946.net:8443/hls/9eo10wv.m3u8?s=z5i_SGcD73689gE6tRMkng&e=1597070139
+
