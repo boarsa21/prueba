@@ -1,2 +1,3 @@
-# prueba
-canales 
+#EXTM3U
+
+#EXTINF:-1 ,http://newplay.site/play?cluster=aHR0cDovLzE50C4yNTUuMTMuMTA2L2xpdmUvbW92aXN0YXJfc2VyaWVzL2luZGV4Lm0zdTg/dG9rZW49WVpPd2txQzJ2REI0TXR1em9LeEhNQSZleHBpcmVzPTE10TcxNTM20TMgMTKzLjExMS41My4yMTQgMTU5NzEzMDg5MzAwMDcyMDAwMDA=
